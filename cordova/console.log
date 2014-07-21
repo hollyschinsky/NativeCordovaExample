@@ -1,0 +1,27 @@
+2014-06-27 10:05:38.254 NativeCordovaExample[1034:70b] Apache Cordova native platform version 3.5.0 is starting.
+2014-06-27 10:05:38.256 NativeCordovaExample[1034:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-27 10:05:38.378 NativeCordovaExample[1034:70b] Unlimited access to network resources
+2014-06-27 10:05:38.381 NativeCordovaExample[1034:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-06-27 10:05:38.801 NativeCordovaExample[1034:70b] Resetting plugins due to page load.
+2014-06-27 10:05:38.929 NativeCordovaExample[1034:70b] Finished load of: file:///Users/hollyschinsky/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/52CC8118-B625-4CD5-B363-ED92DA4B533F/NativeCordovaExample.app/www/index.html
+2014-06-27 10:05:38.970 NativeCordovaExample[1034:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-06-27 10:06:06.559 NativeCordovaExample[1174:70b] Apache Cordova native platform version 3.5.0 is starting.
+2014-06-27 10:06:06.561 NativeCordovaExample[1174:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-27 10:06:06.570 NativeCordovaExample[1174:70b] Unlimited access to network resources
+2014-06-27 10:06:06.573 NativeCordovaExample[1174:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-06-27 10:06:06.717 NativeCordovaExample[1174:70b] Resetting plugins due to page load.
+2014-06-27 10:06:06.816 NativeCordovaExample[1174:70b] Finished load of: file:///Users/hollyschinsky/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/52CC8118-B625-4CD5-B363-ED92DA4B533F/NativeCordovaExample.app/www/index.html
+2014-06-27 10:06:06.854 NativeCordovaExample[1174:70b] Received Event: deviceready
