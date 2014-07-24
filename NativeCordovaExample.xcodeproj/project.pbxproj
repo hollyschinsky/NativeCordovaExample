@@ -5,8 +5,8 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
-		173151C4197C505C00328CDF /* IonicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 173151C3197C505C00328CDF /* IonicViewController.m */; };
 		179A58BE195DE2CC00E58BFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 179A58BD195DE2CC00E58BFC /* Main.storyboard */; };
 		179A58DD196E4FCD00E58BFC /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 179A58DC196E4FCD00E58BFC /* home.png */; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
@@ -62,8 +62,6 @@
 
 /* Begin PBXFileReference section */
 		0150DDCAE1F84F6B831E774C /* CDVLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVLogger.m; path = org.apache.cordova.console/CDVLogger.m; sourceTree = "<group>"; };
-		173151C3197C505C00328CDF /* IonicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IonicViewController.m; sourceTree = "<group>"; };
-		173151C5197C520600328CDF /* IonicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IonicViewController.h; sourceTree = "<group>"; };
 		179A58BD195DE2CC00E58BFC /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		179A58DC196E4FCD00E58BFC /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		1D3623240D0F684500981E51 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -104,9 +102,7 @@
 		7E7966DC1810823500FA85AD /* icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small.png"; sourceTree = "<group>"; };
 		7E7966DD1810823500FA85AD /* icon-small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small@2x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* NativeCordovaExample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "NativeCordovaExample-Info.plist"; path = "../NativeCordovaExample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
-		9FCD9250617340C98A4185E4 /* CDVStatusBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVStatusBar.m; path = org.apache.cordova.statusbar/CDVStatusBar.m; sourceTree = "<group>"; };
 		A961630DACB3436495B07C83 /* CDVLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVLogger.h; path = org.apache.cordova.console/CDVLogger.h; sourceTree = "<group>"; };
-		CD3C57A995104F229A83097F /* CDVStatusBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVStatusBar.h; path = org.apache.cordova.statusbar/CDVStatusBar.h; sourceTree = "<group>"; };
 		D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x~iphone.png"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = NativeCordovaExample/config.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -135,8 +131,6 @@
 				1D3623240D0F684500981E51 /* AppDelegate.h */,
 				1D3623250D0F684500981E51 /* AppDelegate.m */,
 				179A58BD195DE2CC00E58BFC /* Main.storyboard */,
-				173151C3197C505C00328CDF /* IonicViewController.m */,
-				173151C5197C520600328CDF /* IonicViewController.h */,
 			);
 			name = Classes;
 			path = NativeCordovaExample/Classes;
@@ -231,8 +225,6 @@
 			children = (
 				0150DDCAE1F84F6B831E774C /* CDVLogger.m */,
 				A961630DACB3436495B07C83 /* CDVLogger.h */,
-				9FCD9250617340C98A4185E4 /* CDVStatusBar.m */,
-				CD3C57A995104F229A83097F /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = NativeCordovaExample/Plugins;
@@ -418,7 +410,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				173151C4197C505C00328CDF /* IonicViewController.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				76067138C7D342219F8E0BAB /* CDVLogger.m in Sources */,
